@@ -301,7 +301,7 @@ header{
     
     header .navbar{
         position: absolute;
-        top: -500px;
+        /* top: -500px;  */
         left: 0;
         right: 0;
         display: flex;
@@ -312,8 +312,10 @@ header{
         transition: 0.2s;
         text-align: left;
     }
-    
-    .navbar .active{
+    .inactive{
+        top: -500px;
+    }
+    .active{
         top: 100%;
     }
     .navbar a{
