@@ -99,13 +99,13 @@ header{
 }
 .home-text span{
     font-size: 1rem;
-    text-transform: uppercase;/*convert the welcome to text to uppercase*/
-    font-weight: 600;/*make welcome to text bold*/
+    text-transform: uppercase;/*convert the welcome text to uppercase*/
+    font-weight: 600;/*make welcome text to bold*/
     color:var(--second-color);
 }
 .home-text h1{
     font-size: 3.2rem;
-    color: var(--main-color);/*chnage gelato icecream color to green*/
+    color: var(--main-color);/*change gelato icecream color to green*/
     font-weight: bolder;
 }
 .home-text h2{
@@ -228,7 +228,7 @@ header{
 .about-text{
     flex: 1 1 17rem;
 }
-.about-texth2{
+.about-text h2{
     font-size: 1.2rem;
     color: var(--second-color);
 }
