@@ -11,3 +11,4 @@
 ![Screenshot 2023-10-22 184614](https://github.com/varunteja-18/e-commerce-website/assets/109790641/e5b2a6c4-681a-45db-814a-6ee42faaaf38)
 ![Screenshot 2023-10-22 184626](https://github.com/varunteja-18/e-commerce-website/assets/109790641/49b2e97f-c9dd-4549-a247-bd84178144f3)
 ![Screenshot 2023-10-22 184704](https://github.com/varunteja-18/e-commerce-website/assets/109790641/8f539369-97a3-4051-91aa-2a85988083c5)
+![Screenshot 2023-10-22 185041](https://github.com/varunteja-18/e-commerce-website/assets/109790641/4078f273-8943-406d-a709-efceedbf314f)
