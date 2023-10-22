@@ -2,3 +2,12 @@
 
 # Output
 ![Screenshot 2023-10-22 184408](https://github.com/varunteja-18/e-commerce-website/assets/109790641/4ac31093-abc1-46b4-b0e7-f488713a22f0)
+![Screenshot 2023-10-22 184426](https://github.com/varunteja-18/e-commerce-website/assets/109790641/c5717787-0df4-4d81-82d2-f37f4f21f839)
+![Screenshot 2023-10-22 184445](https://github.com/varunteja-18/e-commerce-website/assets/109790641/dec44c01-870a-42a4-a142-9d103c94b49d)
+![Screenshot 2023-10-22 184502](https://github.com/varunteja-18/e-commerce-website/assets/109790641/9a13baa5-dcba-4d7e-bff9-5192fa2b2ec9)
+![Screenshot 2023-10-22 184518](https://github.com/varunteja-18/e-commerce-website/assets/109790641/6278ecde-5445-4606-8789-e819609fff6c)
+![Screenshot 2023-10-22 184529](https://github.com/varunteja-18/e-commerce-website/assets/109790641/b24ed552-a224-42aa-bf05-cb38e455255c)
+![Screenshot 2023-10-22 184603](https://github.com/varunteja-18/e-commerce-website/assets/109790641/072fdb43-cf40-44fc-b8da-32147443dbee)
+![Screenshot 2023-10-22 184614](https://github.com/varunteja-18/e-commerce-website/assets/109790641/e5b2a6c4-681a-45db-814a-6ee42faaaf38)
+![Screenshot 2023-10-22 184626](https://github.com/varunteja-18/e-commerce-website/assets/109790641/49b2e97f-c9dd-4549-a247-bd84178144f3)
+![Screenshot 2023-10-22 184704](https://github.com/varunteja-18/e-commerce-website/assets/109790641/8f539369-97a3-4051-91aa-2a85988083c5)
