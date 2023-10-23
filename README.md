@@ -1,7 +1,7 @@
 # e-commerce-website
 The project represents a state-of-the-art e-commerce platform tailored specifically for "Gelato Ice Cream." It's a comprehensive platform, offering a user-friendly interface where visitors can explore a plethora of gelato flavors, learn about the company, and seamlessly place orders.
 
-<u><em><b>HTML Overview:</b></em></u>
+<em><b>HTML Overview:</b></em>
 
 DOCTYPE and meta tags: These foundational elements ensure the document adheres to the latest web standards and that it adjusts appropriately to varying device sizes, ensuring mobile-friendliness.
 
@@ -13,7 +13,9 @@ img: A vital tag that enhances user experience with visual representations, be i
 
 a: These are clickable elements, directing users either within the site or externally. The project heavily relies on these for navigation and social media engagement.
 
-CSS Overview:
+
+<em><b>CSS Overview:</b></em>
+
 General Styling: By using the universal (*) selector, the website begins with a clean slate, eliminating browser-specific default styles. The ':root' pseudo-class defines color schemes, creating a consistent visual theme.
 
 Flexbox: This modern layout model ensures content scales gracefully. Whether it's aligning products in a grid or centering text, Flexbox is pivotal in the site's adaptability.
