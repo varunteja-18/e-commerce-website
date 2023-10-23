@@ -8,6 +8,7 @@ section: Each 'section' tag demarcates distinct content areas, from showcasing p
 img: A vital tag that enhances user experience with visual representations, be it the brand's identity via the logo or the tantalizing allure of the ice cream products.
 a: These are clickable elements, directing users either within the site or externally. The project heavily relies on these for navigation and social media engagement.
 
+
 # Output
 ![Screenshot 2023-10-22 184408](https://github.com/varunteja-18/e-commerce-website/assets/109790641/4ac31093-abc1-46b4-b0e7-f488713a22f0)
 ![Screenshot 2023-10-22 184426](https://github.com/varunteja-18/e-commerce-website/assets/109790641/c5717787-0df4-4d81-82d2-f37f4f21f839)
