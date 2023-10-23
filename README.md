@@ -27,6 +27,17 @@ Pseudo-elements and classes: These extend design capabilities, adding nuanced to
 Animation: Visual feedback, like the subtle movement of the ice cream image on the homepage, is achieved through CSS animations. This not only grabs attention but enhances user interaction.
 
 
+<em><b>JavaScript Overview:</b></em>
+
+querySelector: An efficient method that fetches specific elements from the DOM, forming the base for many interactive functionalities.
+
+onclick: An event-driven function, it springs into action with every click, governing dynamic features like the appearance or disappearance of the navigation menu.
+
+classList: A dynamic class manipulator, it aids in the seamless toggling of styles, such as revealing the mobile navigation or adjusting button states.
+
+onscroll: This event listener ensures the site remains visually consistent during scrolling, reverting dynamic changes like an expanded navigation menu.
+
+The e-commerce platform for "Gelato Ice Cream" is a meticulously crafted digital space. From its structured content layout to its interactive features, the site stands as a testament to the harmonious blend of HTML's structure, CSS's aesthetics, and JavaScript's dynamism.
 # Output
 ![Screenshot 2023-10-22 184408](https://github.com/varunteja-18/e-commerce-website/assets/109790641/4ac31093-abc1-46b4-b0e7-f488713a22f0)
 ![Screenshot 2023-10-22 184426](https://github.com/varunteja-18/e-commerce-website/assets/109790641/c5717787-0df4-4d81-82d2-f37f4f21f839)
